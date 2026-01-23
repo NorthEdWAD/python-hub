@@ -23,10 +23,10 @@ Project: [Unit Name - Project Title]
 # PART 2: REFLECTION & EXIT TICKET
 # =======================================================
 """
-1. What was the most 'vital' concept you learned in this project?
+1. What was the most important concept you learned in this project?
    > 
 
-2. How would you explain an 'if' statement to a peer?
+2. How would you explain -- concisely and in plain English -- an 'if' statement to a peer?
    > 
 """
 
