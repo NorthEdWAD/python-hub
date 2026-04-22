@@ -14,4 +14,4 @@
 
 # TODO 6: Use the print ( ) function to display the other two pieces of information about yourself (see TODO 3)
 
-# REMINDER: Open and run your Python script in VS Code to make sure it works!
+# REMINDER: Open and run your Python script (starter.py) in VS Code to make sure it works!
