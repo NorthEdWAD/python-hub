@@ -71,7 +71,6 @@ Your project is complete when you have:
 - Create 
 - Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
   ```python
-  ```python
   first_name = 'Abraham'
   last_name = 'Lincoln'
   full_name = f'{first_name} {last_name}'
