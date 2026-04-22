@@ -13,3 +13,5 @@
 # TODO 5: On the next line, use the print( ) function to display the name of your school
 
 # TODO 6: Use the print ( ) function to display the other two pieces of information about yourself (see TODO 3)
+
+# REMINDER: Open and run your Python script in VS Code to make sure it works!
