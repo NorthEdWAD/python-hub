@@ -1,22 +1,23 @@
-# Unit 01: Title
+# Unit 01: Getting Started
 
 ## Overview
-One-sentence summary.
+In this unit, you'll set up your accounts and learn how to get started in Visual Studio Code, the code editor installed on your laptop.
 
 
 ## How to Use This Unit  
 
-- Move through the lessons in order
-- Complete the projects to apply what you've learned
+- Complete the lessons in order
+- Follow the instructions for setting up your accounts
+- Let me know if you have questions or something doesn't seem to be working the way it's supposed to
 
 ---
 
 ## Learning Objectives
 By completing this unit, students will:
-- Understand .
-- Use .
-- Apply .
-- Build .
+- Understand what GitHub is and why professional developers/web designers use it
+- Activate their Career Tech email account
+- Activate their Google Drive for Career Tech
+- Create, save and run a basic Python script in Visual Studio Code (AKA VS Code)
 
 ---
 
