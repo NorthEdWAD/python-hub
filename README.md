@@ -16,7 +16,7 @@ In this unit, you'll set up your accounts and learn how to get started in Visual
 By completing this unit, students will:
 - Understand what GitHub is and why professional developers/web designers use it
 - Activate their Career Tech email account
-- Activate their Google Drive for Career Tech
+- Activate their Career Tech Google Drive 
 - Create, save and run a basic Python script in Visual Studio Code (AKA VS Code)
 
 ---
