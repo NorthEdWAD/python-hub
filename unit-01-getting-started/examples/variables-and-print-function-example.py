@@ -13,6 +13,7 @@ print('Hello, world!')
 first_name = 'Abraham'
 last_name = 'Lincoln'
 # Build an f-string (like a fill-in-the-blank sentence)
+# f-string is short for 'formatted string'
 full_name = f'{first_name} {last_name}'
 # Display the user's full name
 print(full_name)
