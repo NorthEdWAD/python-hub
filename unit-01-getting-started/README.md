@@ -46,16 +46,9 @@ Your project is complete when you have:
 
 1. Text.
 2. Create :
-   ```html
-   <!DOCTYPE html>
-   <html>
-     <head>
-       <title>My Project</title>
-     </head>
-     <body>
-       <!-- Your code here -->
-     </body>
-   </html>
+   ```python
+   message = 'Hello, Python!'
+   print(message)
    ```
 </details>
 
@@ -63,8 +56,11 @@ Your project is complete when you have:
 <summary>Part 2: Text</summary>
 
 - Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```html
-  <link rel="stylesheet" href="styles.css">
+  ```python
+  first_name = 'Abraham'
+  last_name = 'Lincoln'
+  full_name = f'{first_name} {last_name}'
+  print(full_name)
   ```
 </details>
 
@@ -73,8 +69,12 @@ Your project is complete when you have:
 
 - Create 
 - Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```html
-  <script src="script.js"></script>
+  ```python
+  ```python
+  first_name = 'Abraham'
+  last_name = 'Lincoln'
+  full_name = f'{first_name} {last_name}'
+  print(full_name)
   ```
 
 </details>
