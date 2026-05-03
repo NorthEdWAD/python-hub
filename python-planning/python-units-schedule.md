@@ -1,9 +1,3 @@
-To apply the **essentialist mindset** to your Python curriculum and organize it over **two 16-week semesters**, focus on **depth over breadth**, **student-led learning**, and **project-based mastery**. Below is a structured approach that prioritizes **larger, meaningful projects** while ensuring students take ownership of their learning through **paired programming, PRIMM (Predict, Run, Investigate, Modify, Make) activities, and small group work**.
-
----
-
----
-
 ### **Semester 1: Foundations of Python (16 Weeks)**
 **Goal**: Build a strong foundation in Python fundamentals, with an emphasis on **problem-solving, collaboration, and project-based learning**.
 
