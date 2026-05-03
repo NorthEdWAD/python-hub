@@ -85,8 +85,6 @@
 
 ---
 
----
-
 ### **Semester 2: Intermediate Python and Pygame (16 Weeks)**
 **Goal**: Apply Python fundamentals to **larger, more complex projects**, with a focus on **Pygame and game development**.
 
