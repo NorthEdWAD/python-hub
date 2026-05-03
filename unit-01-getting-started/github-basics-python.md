@@ -17,8 +17,9 @@ Students will:
 4.  **Check your work:** Run your script! If your information displays correctly in the terminal, you are ready to start working with GitHub.
 5.  **Open GitHub Desktop:** Select **"Create a New Repository on your hard drive."** Name it `python-practice`. For the "Local Path," make sure you choose the folder you created in Step 1.
 6.  **The First "Commit":** In the bottom-left corner of GitHub Desktop, type "Initial Commit" in the Summary box. Click the blue **Commit to main** button. This saves a snapshot of your code.
-7.  **Publish to GitHub:** Click the **Publish repository** button at the top. **IMPORTANT:** Uncheck the box that says "Keep this code private" so your repository is public. Click **Publish**.
+7.  **Publish to GitHub:** Click the **Publish repository** button at the top. **IMPORTANT:** Uncheck the box that says "Keep this code private" so your repository is public. Click **Publish**.  
     > **Check your work:** Log in to GitHub.com. Check your "Repositories" list; you should see `python-practice` and your `info.py` file inside it.
+
 8.  **Make a Change:** Return to your code editor. Add a new line to your script that prints your favorite color. Save the file.
 9.  **Push the Update:** Return to GitHub Desktop. You will see your new line of code highlighted. Type "Added favorite color" in the Summary box, click **Commit**, and then click **Push origin** to send the update to GitHub online.
 10. **Final Submission:** Navigate to your repository on GitHub.com. Copy the URL from your browser’s address bar (it should look like `github.com/your-username/python-practice`) and paste it into the designated **Google Form**.
