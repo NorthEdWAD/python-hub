@@ -1,4 +1,3 @@
----
 ### **Additional Tips**
 - **Scaffold Projects**: Break larger projects into **smaller milestones** (e.g., "This week, focus on creating the game loop; next week, add collision detection").
 - **Use PRIMM for Debugging**: When students encounter errors, have them **predict** what’s wrong, **run** the code, **investigate** the error, and **modify** the code to fix it.
