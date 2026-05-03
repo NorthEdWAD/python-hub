@@ -23,12 +23,13 @@
 
 ---
 
-**Submission Requirements:** * Your `python-practice` folder must contain your `info.py` file.
+**Submission Requirements:** 
+* Your `python-practice` folder must contain your `info.py` file.
 * The GitHub repository must be set to **Public**.
 * Submit the repository URL using the designated Google Form.
 
 **Assessment:**
 You will be graded on:
-* **Functionality:** Does the Python script run and display the required info?
+* **Function:** Does the Python script run and display the required info?
 * **Repository Settings:** Is the repository public and named correctly?
 * **Commit History:** Does your GitHub history show at least two successful commits?
