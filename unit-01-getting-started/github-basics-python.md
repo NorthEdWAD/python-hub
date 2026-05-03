@@ -1,6 +1,7 @@
 **Project Overview:** In this activity, you will write a simple Python script and sync it with GitHub. This is how professional developers save their work, track changes, and share code with their teams.
 
 **Objectives:**  
+
 Students will:
 * create a local project folder and convert it into a GitHub repository.
 * write a simple Python script using variables and print statements.
