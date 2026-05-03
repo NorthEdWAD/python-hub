@@ -2,7 +2,7 @@ This project is designed to give students a quick, hands-on introduction to vers
 
 ---
 
-**Project Overview:** In this activity, students will learn the fundamental workflow of Git and GitHub by creating a local project and publishing it to the cloud. [cite_start]They will use GitHub Desktop to manage their files, commit changes, and push their work to a remote repository[cite: 13, 82].
+**Project Overview:** In this activity, students will learn the fundamental workflow of Git and GitHub by creating a local project and publishing it to the cloud. They will use GitHub Desktop to manage their files, commit changes, and push their work to a remote repository.
 
 **Learning Objectives:**
 * [cite_start]Students will be able to create a local project folder and initialize it as a GitHub repository[cite: 20, 82].
