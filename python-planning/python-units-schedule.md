@@ -1,3 +1,35 @@
+---
+### **Additional Tips**
+- **Scaffold Projects**: Break larger projects into **smaller milestones** (e.g., "This week, focus on creating the game loop; next week, add collision detection").
+- **Use PRIMM for Debugging**: When students encounter errors, have them **predict** what’s wrong, **run** the code, **investigate** the error, and **modify** the code to fix it.
+- **Peer Reviews**: After completing a project, have students **present their work** and give feedback to each other.
+- **Minimal Lecturing**: Reserve teacher-led instruction for **introducing new concepts** (e.g., a 10-minute demo on classes) and spend the rest of the time on **active learning**.
+
+---
+
+
+### **How This Adheres to Essentialism**
+1. **Focus on the Vital Few**:
+   - Each semester centers on **2-3 large projects** (e.g., a text-based game, a gradebook, a 2D Pygame project) instead of dozens of small, disconnected activities.
+   - Topics are **grouped logically** to build toward these projects (e.g., lists and dictionaries are taught together to support the gradebook project).
+
+2. **Eliminate the Trivial**:
+   - Avoids lecturing on every detail. Instead, students **learn by doing** through paired programming, PRIMM, and group work.
+   - Skips redundant or overly complex topics (e.g., deep dives into Python decorators or advanced OOP) until the basics are mastered.
+
+3. **Encourage Mastery**:
+   - **Project-based learning** ensures students apply concepts in **real-world contexts**.
+   - **Student-led activities** (PRIMM, paired programming) shift responsibility from the teacher to the students, fostering independence.
+
+4. **Progressive Complexity**:
+   - Semester 1 focuses on **foundations**, while Semester 2 builds on these to create **larger, more complex projects** (e.g., a 2D game).
+   - Each project **incorporates multiple concepts** (e.g., the 2D game uses classes, functions, loops, and Pygame).
+
+5. **Teamwork**:
+   - **Paired programming and small group work** encourage peer learning and problem-solving.
+
+---
+
 ### **Semester 1: Foundations of Python (16 Weeks)**
 **Goal**: Build a strong foundation in Python fundamentals, with an emphasis on **problem-solving, collaboration, and project-based learning**.
 
@@ -105,34 +137,4 @@
 
 ---
 
----
----
-### **How This Adheres to Essentialism**
-1. **Focus on the Vital Few**:
-   - Each semester centers on **2-3 large projects** (e.g., a text-based game, a gradebook, a 2D Pygame project) instead of dozens of small, disconnected activities.
-   - Topics are **grouped logically** to build toward these projects (e.g., lists and dictionaries are taught together to support the gradebook project).
 
-2. **Eliminate the Trivial**:
-   - Avoids lecturing on every detail. Instead, students **learn by doing** through paired programming, PRIMM, and group work.
-   - Skips redundant or overly complex topics (e.g., deep dives into Python decorators or advanced OOP) until the basics are mastered.
-
-3. **Encourage Mastery**:
-   - **Project-based learning** ensures students apply concepts in **real-world contexts**.
-   - **Student-led activities** (PRIMM, paired programming) shift responsibility from the teacher to the students, fostering independence.
-
-4. **Progressive Complexity**:
-   - Semester 1 focuses on **foundations**, while Semester 2 builds on these to create **larger, more complex projects** (e.g., a 2D game).
-   - Each project **incorporates multiple concepts** (e.g., the 2D game uses classes, functions, loops, and Pygame).
-
-5. **Collaboration**:
-   - **Paired programming and small group work** encourage peer learning and problem-solving.
-
----
----
-### **Additional Tips for Implementation**
-- **Scaffold Projects**: Break larger projects into **smaller milestones** (e.g., "This week, focus on creating the game loop; next week, add collision detection").
-- **Use PRIMM for Debugging**: When students encounter errors, have them **predict** what’s wrong, **run** the code, **investigate** the error, and **modify** the code to fix it.
-- **Peer Reviews**: After completing a project, have students **present their work** and give feedback to each other.
-- **Minimal Lecturing**: Reserve teacher-led instruction for **introducing new concepts** (e.g., a 10-minute demo on classes) and spend the rest of the time on **active learning**.
-
----
