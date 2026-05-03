@@ -1,5 +1,6 @@
-**Project Overview:** In this activity, you will create a simple project folder and sync it with GitHub. This is how professional web developers save their work and make it available to the other members of their coding team.
-**Learning Objectives:**
+**Project Overview:** In this activity, you will create a simple project folder and sync it with GitHub. This is how professional web developers save their work and make it available to the other members of their coding team.  
+
+**Objectives:**
 * Students will be able to create a local project folder and turn it into a GitHub repository.
 * Students will be able to write basic HTML and CSS to create practice files.
 * Students will be able to **commit** and **push** the changes made to their files to a GitHub repository.
