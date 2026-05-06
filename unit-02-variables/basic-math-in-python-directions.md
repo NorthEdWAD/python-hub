@@ -11,30 +11,9 @@
 ---
 
 ### 🚀 Starter Code
-**Step 1:** Open your code editor.  
-**Step 2:** Copy/paste the starter code below into an empty `.py` file to get started.
-
-```python
-# First and last name
-# Current date
-# Basic Math with Python
-
-# --- PART 1 --- #
-# Write addition, subtraction, multiplication and division operations
-# that each result in the number 8.  
-# Use short, descriptive variable names (such as num1, num2, etc.) in your equations
-# Use the print ( ) function and f-strings to display your answers
-
-
-
-# --- PART 2 --- #
-# Define a variable that represents your lucky number
-# Use this variable to create a short message that reveals your lucky number
-# Use the print ( ) function and an f-string to display your lucky number
-
-```
-
-
+**Step 1:** Download the `basic-math-starter.py` script from GitHub into a NEW folder (`basic-math`) on your laptop.
+**Step 2:** Open the `basic-math` folder in VS Code.
+**Step 3:** Follow the instructions in the starter script.
 ---
 
 ### 💡 Additional Resources  
