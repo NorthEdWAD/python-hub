@@ -10,6 +10,15 @@
 
 ---
 
+### 📤 Checking Your Work
+
+Your teacher will check your code during class or during Teacher Time.
+
+- Please upload your finished script to your GitHub repo: `basic-math`
+- Also have your script open in VS Code so you can run it and show that it works
+
+---
+
 ### 🚀 Starter Code  
 
 - Download the `basic-math-starter.py` script from GitHub into a NEW folder (`basic-math`) on your laptop
@@ -43,9 +52,4 @@ Your project is complete when you've:
 
 ---
 
-### 📤 Checking Your Work
 
-Your teacher will check your code during class or during Teacher Time.
-
-- Please upload your finished script to your GitHub repo: `basic-math`
-- Also have your script open in VS Code so you can run it and show that it works
