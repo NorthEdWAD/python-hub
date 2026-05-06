@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Starter Code
+### 🚀 Starter Code  
 **Step 1:** Download the `basic-math-starter.py` script from GitHub into a NEW folder (`basic-math`) on your laptop.
 **Step 2:** Open the `basic-math` folder in VS Code.
 **Step 3:** Follow the instructions in the starter script.
