@@ -39,10 +39,6 @@
 
 ### 💡 Additional Resources  
 📚 [How to Do Math in Python 3 with Operators](https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators)  
-🎥 [Mosh: Python Numbers](https://youtu.be/K5KVEU3aaeQ?si=R5X_ZrLkTLBtMVZd) (see time stamps)  
-🎥 [Mosh: Working with Numbers](https://youtu.be/K5KVEU3aaeQ?si=R5X_ZrLkTLBtMVZd) (see time stamps)  
-
-
 
 ---
 
@@ -62,7 +58,7 @@ Your project is complete when you've:
 
 1. It always helps to read the instructions.
 2. Review the examples.
-3. Ask a neighbor to help you debug the code you've written so far.
+3. Ask a neighbor to help you debug your code.
 4. Ask the teacher.
 
 ---
@@ -71,4 +67,5 @@ Your project is complete when you've:
 
 Your teacher will check your code during class or during Teacher Time.
 
-Please review the [Teacher Time Checklist](https://github.com/bengal865/web-year/wiki/teacher%E2%80%90time%E2%80%90checklist) before you bring your code up for review during Teacher Time.
+- Please upload your finished script to your GitHub repo: `basic-math`
+- Also have your script open in VS Code so you can run it and show that it works
