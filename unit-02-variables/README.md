@@ -1,24 +1,18 @@
-# 🎨 **Project**  
+# 🎨 Project: **Python Hero Stats Card**  
 
 **Due Dates:**
-- Part 1: April 5
-- Part 2: April 8
-- Part 3: April 12
-
+- Due MON 00 SEP 2026
 ---
 
 **Objective:** 
-> Create 
+> Write a Python script that uses the `print()` function, variables and an f-string to display some info about a game character.
 
 ---
 
 ## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
-- **How to Submit:**
-  - Upload work to your PUBLIC GitHub repo.
+  - Upload work to your PUBLIC GitHub repo: `f-string-practice`
   - Copy web address of repo.
-  - Email repo web address to teacher.
-     - Email SUBJECT LINE = Project title
+  - Paste repo web address into Google Form and submit
 
 ---
 
