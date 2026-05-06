@@ -12,7 +12,7 @@
 ## 📅 **Submitting Your Work**
   - Upload work to your PUBLIC GitHub repo: `f-string-practice`
   - Copy web address of repo.
-  - Paste repo web address into Google Form and submit
+  - Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
 
 ---
 
