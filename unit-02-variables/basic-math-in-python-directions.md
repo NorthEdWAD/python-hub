@@ -26,9 +26,10 @@ Your teacher will check your code during class or during Teacher Time.
 - Follow the instructions in the starter script
 ---
 
-### 💡 Additional Resources  
+### 💡 Additional Resources 
 📚 [How to Do Math in Python 3 with Operators](https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators)  
-
+📚 [Using f-strings](https://www.youtube.com/watch?v=eszrY7w83q8)  
+    
 ---
 
 ### ✅ Success Criteria
