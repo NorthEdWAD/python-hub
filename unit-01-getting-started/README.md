@@ -20,7 +20,7 @@
 <summary>Part 1: GitHub Account</summary>
 
 🎞️ [How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=pZ5GW7nvfTcZ72dJ)
-- Create a GitHub account using your Career Tech *username* and *password*
+- Create a **NEW** GitHub account using your Career Tech *username* and *password*
 </details>
 
 <details>
