@@ -8,7 +8,7 @@ In this unit, you'll set up your accounts and learn how to get started in Visual
 
 - Complete the lessons in order
 - Follow the instructions for setting up your accounts
-- Let me know if you have questions or something doesn't seem to be working the way it's supposed to
+- Let me know if you have questions or something doesn't seem to be working the way it should
 
 ---
 
