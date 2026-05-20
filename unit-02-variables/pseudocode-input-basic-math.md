@@ -1,6 +1,6 @@
 # Python: Getting Input from the User, Doing Math, and Displaying Output
 
-**What is Pseudocode?**
+**What is Pseudocode?**  
 Think of pseudocode as the sketch of your script.  
 
 When an artist draws a picture, they usually start with a rough pencil sketch before they bring out the paint.   
