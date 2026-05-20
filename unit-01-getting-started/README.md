@@ -36,6 +36,7 @@ Your project is complete when you have:
 - 🎞️ [How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=pZ5GW7nvfTcZ72dJ)
 - 🔗 [Coddy Tech / Python](https://coddy.tech/)
   - Create account using your Career Tech username and password
+- *Python Crash Course* book in our classroom
 - 🎞️ [BroCode | Python | YouTube](https://youtu.be/ix9cRaBkVe0?si=Sh3hHadW6qHPu-xm)
 - 🎞️ [Mosh | Python for Beginners | YouTube](https://youtu.be/K5KVEU3aaeQ?si=wztjh6PNiT67JlYi)
 
