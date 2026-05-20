@@ -38,7 +38,7 @@ Write by hand the pseudocode for the following task in the space below.
 
 **Your Task:**  
 
-Ask the user for their name (text) and how many hours they worked this week (number). Multiply their hours worked by an hourly wage of $18 to calculate their total pay. Finally, print a custom message that includes their name that tells them exactly how much money they earned for the week.  Format the user's hourly wage and pay for the week as currency.
+Ask the user for their name (text) and how many hours they worked this week (number). Multiply their hours worked by an hourly wage of $18 to calculate their total pay. Finally, print a custom message that includes their first name and tells the user exactly how much money they earned for the week.  Format the user's hourly wage and pay for the week as currency.
 
 ---
 
