@@ -27,7 +27,9 @@ Python has strict rules for variables. They must start with a letter or undersco
 
 #### Part 2: The F-String Reveal (10 Minutes) - *Switch Roles Now!*
 
-An f-string lets you insert variables directly into a sentence by placing an `f` in front of the quotation marks and putting the variable inside curly braces `{}`.
+An f-string lets you insert variables directly into a sentence by placing an `f` in front of the quotation marks and putting the variable inside curly braces `{}`.  
+
+The `f` in `f-string` is short for **formatted** string.  An `f-string` works kind of like a fill-in-the-blank sentence.
 
 5. **Basic Print:** Use a standard `print()` function to display a simple "Hello World" message to ensure your console works.
 6. **The F-String:** Write a single `print()` statement using an f-string that displays the player's name and score in a full sentence.
