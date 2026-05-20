@@ -42,5 +42,5 @@ The `f` in `f-string` is short for **formatted** string.  An `f-string` works ki
 
 ### Discussion Questions
 
-* **Syntax Check:** Why does Python reject a variable name like `player score` (with a space) or `1st_place`? What rule did those break?
+* **Syntax Check:** Why does Python reject a variable name like `player score` (with a space) or `1st_place`? What Python rule did these two variables break?
 * **The Power of F-Strings:** How do f-strings make your `print()` statements easier to read and write compared to smashing text and variables together with commas or plus signs?
