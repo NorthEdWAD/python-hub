@@ -1,38 +1,11 @@
-# 🎨 **Project**  
-
-**Due Dates:**
-- Part 1: April 5
-- Part 2: April 8
-- Part 3: April 12
-
----
+# 🎨 **Career Tech Account Setup**  
 
 **Objective:** 
-> Create 
+> Students will create and configure the accounts and apps they'll use this year in Web & App Dev.
 
 ---
 
-## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
-- **How to Submit:**
-  - Upload work to your PUBLIC GitHub repo.
-  - Copy web address of repo.
-  - Email repo web address to teacher.
-     - Email SUBJECT LINE = Project title
-
----
-
-## ✅ **Requirements**
-
-Your project is complete when you have:
-
-- [ ] Requirement
-- [ ] Requirement
-- [ ] Requirement
-
----
-
-## 🔗 **Resources**
+## 🔗 **Your To-Do List**
 - 🎞️ [How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=pZ5GW7nvfTcZ72dJ)
 - 🔗 [Coddy Tech / Python](https://coddy.tech/)
   - Create account using your Career Tech username and password
