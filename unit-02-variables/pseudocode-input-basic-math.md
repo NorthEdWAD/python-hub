@@ -45,9 +45,9 @@ Ask the user for their name (text) and how many hours they worked this week (num
 ### [TEACHER SECTION] Pseudocode Solution:
 
 ```text
-Ask the user for their name and store it in user_name
-Ask the user for their hours worked and store it in hours_worked
-Multiply hours_worked by 15, store the result in total_pay
-Display a message combining user_name and total_pay (e.g., "Hi [user_name], you earned $[total_pay] this week!")
+Ask the user for their name and store it in user_name.
+Ask the user for their hours worked and store it in hours_worked.
+Multiply hours_worked by 15, store the result in total_pay.
+Display a message combining user_name and total_pay (e.g., "Hi [user_name], you earned $[total_pay] this week!").
 
 ```
