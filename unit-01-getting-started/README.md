@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 **Resources**
-- 🎞️ [How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=pZ5GW7nvfTcZ72dJ)
+
 - *Python Crash Course* book in our classroom
 - 🎞️ [BroCode | Python | YouTube](https://youtu.be/ix9cRaBkVe0?si=Sh3hHadW6qHPu-xm)
 - 🎞️ [Mosh | Python for Beginners | YouTube](https://youtu.be/K5KVEU3aaeQ?si=wztjh6PNiT67JlYi)
@@ -19,7 +19,7 @@
 <details>
 <summary>Part 1: GitHub Account</summary>
 
-- Watch the video about creating your Career Tech GitHub account
+🎞️ [How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=pZ5GW7nvfTcZ72dJ)
 - Create a GitHub account using your Career Tech *username* and *password*
 </details>
 
