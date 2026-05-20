@@ -38,7 +38,7 @@ Your project is complete when you have:
   - Create account using your Career Tech username and password
 - 🎞️ [BroCode | Python | YouTube](https://youtu.be/ix9cRaBkVe0?si=Sh3hHadW6qHPu-xm)
 - 🎞️ [Mosh | Python for Beginners | YouTube](https://youtu.be/K5KVEU3aaeQ?si=wztjh6PNiT67JlYi)
-- 📖 [Non-Programmer's Tutorial for Python 3 | Wiki Books](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+
 
 ---
 
