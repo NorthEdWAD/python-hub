@@ -23,7 +23,7 @@ Python has strict rules for variables. They must start with a letter or undersco
 1. **Create a valid string variable:** Create a variable named `player_name` and assign it the name of your favorite video game or movie character.
 2. **Create a valid integer variable:** Create a variable named `player_score` and assign it a whole number greater than 1000.
 3. **Test the rules:** Try to create a variable named `1st_place` and assign it a value. Look at the error Python gives you.
-4. **Fix it:** Change `1st_place` to a legal name, like `first_place`, to fix the error.
+4. **Fix it:** Change `1st_place` to a valid Python variable name.  What change would you have to make to do this?
 
 #### Part 2: The F-String Reveal (10 Minutes) - *Switch Roles Now!*
 
