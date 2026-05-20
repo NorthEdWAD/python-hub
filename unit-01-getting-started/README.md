@@ -46,39 +46,40 @@ Your project is complete when you have:
 ## 🛠️ **Getting Started**
 
 <details>
-<summary>Part 1: Text</summary>
+<summary>Part 1: GitHub Account</summary>
 
-1. Text.
-2. Create :
-   ```python
-   message = 'Hello, Python!'
-   print(message)
-   ```
+1. Watch the video about creating your Career Tech GitHub account.
 </details>
 
 <details>
-<summary>Part 2: Text</summary>
+<summary>Part 2: Coddy Website</summary>
 
-- Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```python
-  first_name = 'Abraham'
-  last_name = 'Lincoln'
-  full_name = f'{first_name} {last_name}'
-  print(full_name)
-  ```
+- Navigat to the [Coddy Tech](https://coddy.tech/) website
+- Create a NEW account using your Career Tech *username* and *password*
 </details>
 
 <details>
-<summary>Part 3: Text</summary>
+<summary>Part 3: Career Tech Gmail</summary>
 
-- Create 
-- Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```python
-  first_name = 'Abraham'
-  last_name = 'Lincoln'
-  full_name = f'{first_name} {last_name}'
-  print(full_name)
-  ```
+- Activate your Career Tech Gmail account
+
+</details>
+
+<details>
+<summary>Part 4: Career Tech Google Drive</summary>
+
+- Launch/activate your Career Tech Google Drive
+
+</details>
+
+<summary>Part 5: Configure VS Code</summary>
+
+- In VS Code, search for and install these extensions:
+  - Print (by PD Consulting)
+  - Pylance
+  - Python
+- Click the MANAGE (gear) icon in VS Code
+  - Choose a theme (color scheme)
 
 </details>
 
