@@ -8,7 +8,7 @@
 ### Roles
 
 * **Pilot:** Controls the keyboard and mouse. Your job is to type the code exactly as agreed upon and focus on correct syntax.
-* **Navigator:** Keeps their eyes on this sheet and the screen. Your job is to catch typos, ensure variable naming rules are followed, and guide the pilot as s/he writes the code.
+* **Navigator:** Keeps their eyes on this sheet and the screen. Your job is to catch typos, make sure the rules for naming variables are followed, and guide the pilot (your partner) as s/he writes the code.
 
 > **NOTE:** You will switch roles halfway through!
 
