@@ -48,7 +48,8 @@ Your project is complete when you have:
 <details>
 <summary>Part 1: GitHub Account</summary>
 
-1. Watch the video about creating your Career Tech GitHub account.
+- Watch the video about creating your Career Tech GitHub account
+- Create a GitHub account using your Career Tech *username* and *password*
 </details>
 
 <details>
