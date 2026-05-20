@@ -1,6 +1,6 @@
 # 🐍 Python Guide: Modules, Classes, and Functions
 
-Welcome to your ultimate guide to organizing code! As games and programs get bigger, writing everything in one single file becomes messy. Python gives us amazing tools to chop our code into neat, organized pieces. Let's learn how they work!
+Welcome to your ultimate guide to organizing code! As games and programs get bigger, writing everything in one single file can get a bit messy. Python gives us amazing tools to chop our code into neat, organized pieces. Let's learn how they work!
 
 ---
 
