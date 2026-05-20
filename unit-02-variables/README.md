@@ -1,4 +1,4 @@
-# 🎨 Project: **Python Hero Stats Card**  
+# 🎨 Project: **F-Strings Practice**  
 
 **Due Dates:**
 - Due MON 00 SEP 2026
