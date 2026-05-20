@@ -72,6 +72,7 @@ Your project is complete when you have:
 
 </details>
 
+<details>
 <summary>Part 5: Configure VS Code</summary>
 
 - In VS Code, search for and install these extensions:
