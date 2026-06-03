@@ -49,7 +49,7 @@ print(f"All dogs belong to the species: {Dog.species}")  # Output: Canis lupus
 
 ## Example 2: The `Car` Class
 
-This example shows how a class attribute can act as a universal constant or counter (like the number of wheels), while instance attributes capture the specific details of a particular vehicle.
+This example shows how a class attribute can act as a universal constant or counter (like the number of wheels), while instance attributes describe the specific details of a particular vehicle.
 
 ```python
 class Car:
