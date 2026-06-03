@@ -31,7 +31,7 @@ Your project is complete when you have:
 ---
 
 ## 🔗 **Resources**
-- [Link](url)
+- [Reading: Class versus instance attributes explained](https://github.com/NorthEdWAD/python-hub/blob/main/unit-09-classes/examples/class-versus-instance-attributes-explained.md)
 - See starter files
 
 ---
