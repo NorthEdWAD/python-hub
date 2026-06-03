@@ -1,6 +1,8 @@
 ## Python: Intro to Classes
 ### Class Attributes & Methods Exit Ticket
 
+**NAME:** ________________________________
+
 **Directions:**
 
 - Answer the questions below
