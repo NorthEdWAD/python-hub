@@ -39,7 +39,7 @@ Your project is complete when you have:
 ## 🛠️ **Getting Started**
 
 - Create a NEW project file on your computer named: `class-instance-attributes-practice`
-- In the folder, use VS Code to create a new Python script: `attributes-practice.py`
+- In the folder, use VS Code to create a new Python script: `class-attributes-practice.py`
   - Add a Python comment block to the top of your script (name, current date, project title)
 - Write the code as described in the **Requirements** above
 
