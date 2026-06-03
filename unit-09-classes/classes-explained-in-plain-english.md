@@ -1,5 +1,6 @@
 # Python Classes: A Beginner's Guide 🐍
 
+[Link to Python Classes Intro slideshow](https://docs.google.com/presentation/d/1_C1NVCpvDaJnJoFsIlhEUKIFBEFl78ylx_bqx72WDJs/edit?usp=sharing)
 ---
 
 ## What Are Classes?
