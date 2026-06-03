@@ -1,4 +1,4 @@
-# 🎨 **Project**  
+# 🎨 **Python: Creating & Using a Python Class**  
 
 **Due Dates:**
 - Part 1: April 5
@@ -8,17 +8,23 @@
 ---
 
 **Objective:** 
-> Create 
+> Create and use a Python class in your script
+>
+> Be able to define in plain English the following terms related to Python classes:
+> * class
+> * instance
+> * object
+> * attribute
+> * method
+> * __init__( ) method
 
 ---
 
 ## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
-- **How to Submit:**
-  - Upload work to your PUBLIC GitHub repo.
+  - Upload work to your PUBLIC GitHub repo: `classes-practice`
   - Copy web address of repo.
-  - Email repo web address to teacher.
-     - Email SUBJECT LINE = Project title
+  - Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
+
 
 ---
 

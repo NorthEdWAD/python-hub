@@ -13,12 +13,9 @@
 ---
 
 ## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
-- **How to Submit:**
-  - Upload work to your PUBLIC GitHub repo.
+  - Upload work to your PUBLIC GitHub repo: `exceptions-practice`
   - Copy web address of repo.
-  - Email repo web address to teacher.
-     - Email SUBJECT LINE = Project title
+  - Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
 
 ---
 
