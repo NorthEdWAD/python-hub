@@ -54,12 +54,12 @@ This example shows how a class attribute can act as a universal constant or coun
 ```python
 class Car:
     # CLASS ATTRIBUTE: Shared by all cars.
-    # Standard cars universally have 4 wheels.
+    # All standard cars have 4 wheels.
     number_of_wheels = 4
 
     def __init__(self, make, model, color):
         # INSTANCE ATTRIBUTES: Unique to each specific car object.
-        # Cars on the road have different makers, models, and paint jobs.
+        # Cars on the road have different manufacturers, models, and paint jobs.
         self.make = make
         self.model = model
         self.color = color
@@ -68,18 +68,18 @@ class Car:
 # --- Creating Instances (Objects) ---
 
 # Object 1: A red Tesla
-car1 = Car("Tesla", "Model 3", "Red")
+car1 = Car("Tesla", "Model 3", "red")
 
 # Object 2: A blue Ford
-car2 = Car("Ford", "Mustang", "Blue")
+car2 = Car("Ford", "Mustang", "blue")
 
 
 # --- Accessing Attributes ---
 
 # 1. Accessing Instance Attributes
 # The details change depending on which specific car we are looking at.
-print(f"Car 1 is a {car1.color} {car1.make} {car1.model}.")  # Output: Car 1 is a Red Tesla Model 3.
-print(f"Car 2 is a {car2.color} {car2.make} {car2.model}.")  # Output: Car 2 is a Blue Ford Mustang.
+print(f"Car 1 is a {car1.color} {car1.make} {car1.model}.")  # Output: Car 1 is a red Tesla Model 3.
+print(f"Car 2 is a {car2.color} {car2.make} {car2.model}.")  # Output: Car 2 is a blue Ford Mustang.
 
 # 2. Accessing the Class Attribute
 # Even though they are completely different models, they share the same number of wheels.
