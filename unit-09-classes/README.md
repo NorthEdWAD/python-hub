@@ -21,10 +21,9 @@
 ---
 
 ## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
-- **How to Submit:**
-  - Upload work to your PUBLIC GitHub repo.
+  - Upload work to your PUBLIC GitHub repo: `classes-practice`
   - Copy web address of repo.
+  - Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
 
 
 ---
