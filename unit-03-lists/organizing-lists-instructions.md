@@ -35,9 +35,7 @@ Students will learn how to:
 
 💾 Project starter files 
 
-- See the `example.py` file in the `example` folder
-
-📗 *Python Crash Course*, Ch. 3, pp. 36 - 42 (Modifying, Adding & Removing Elements)
+📗 *Python Crash Course*, Ch. 3, pp. 42 - 47 (Organizing a List)
 
 ---
 
