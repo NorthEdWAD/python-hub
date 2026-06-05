@@ -15,5 +15,5 @@ print(cars)
 # Print the first list item using its index number
 print(cars[0]) # Output will be bmw
 
-# To print toyota, do this:
+# To print toyota -- the third list item -- do this:
 print(cars[2]) # Output will be toyota
