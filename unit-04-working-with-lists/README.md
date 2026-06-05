@@ -8,7 +8,8 @@
 
 ---
 
-**Objective:** > - Learn how to use a `FOR` loop to loop through a Python list
+**Objective:** 
+> - Learn how to use a `FOR` loop to loop through a Python list
 > - Learn how to avoid common errors when looping through a list
 > - Learn how to create numeric lists
 > - Learn what a list comprehension is and how to make one
