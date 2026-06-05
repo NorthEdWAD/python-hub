@@ -8,8 +8,7 @@
 
 ---
 
-**Objective:** 
-> - Learn how to use a `FOR` loop to loop through a Python list
+**Objective:** > - Learn how to use a `FOR` loop to loop through a Python list
 > - Learn how to avoid common errors when looping through a list
 > - Learn how to create numeric lists
 > - Learn what a list comprehension is and how to make one
@@ -20,9 +19,9 @@
 ---
 
 ## 📅 **Submitting Your Work**
-  - Upload work to your PUBLIC GitHub repo: `list-management-practice`
-  - Copy web address of repo.
-  - Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
+- Upload work to your PUBLIC GitHub repo: `list-management-practice`
+- Copy web address of repo.
+- Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
 
 ---
 
@@ -63,20 +62,17 @@ Your project is complete when you have:
 <details>
 <summary>Part 3: Working with Parts of a List</summary>
 
-1. Read pp. 61 - 65 in PCC book.
-2. Complete **Try It Yourself**, p. 65, Exercise 4-10 to 4-12.
-
+- Read pp. 61 - 65 in PCC book.
+- Complete **Try It Yourself**, p. 65, Exercise 4-10 to 4-12.
 </details>
 
 <details>
 <summary>Part 4: Tuples</summary>
 
-1. Read pp. 65 - 67 in PCC book.
-2. Complete **Try It Yourself**, p. 67, Exercise 4-13 (Buffet).
-
+- Read pp. 65 - 67 in PCC book.
+- Complete **Try It Yourself**, p. 67, Exercise 4-13 (Buffet).
 </details>
 
 ---
-
 
 
