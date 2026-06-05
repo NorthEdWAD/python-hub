@@ -7,7 +7,7 @@
 # piece of data at a time)
 
 cars = ['bmw', 'audi', 'toyota', 'subaru']
-print(cars)
+print(cars) # Printing the entire list
 
 # The first list item always has an index number of zero (0)
 # This is known as zero-based indexing
