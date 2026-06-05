@@ -1,5 +1,5 @@
 # 🎨 **Intro to Python**  
-## Python Lists 101
+## What Is A List?
 
 **Due Dates:**
 - DAY 00 SEP 2026
