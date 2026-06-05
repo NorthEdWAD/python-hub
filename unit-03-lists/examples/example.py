@@ -2,6 +2,10 @@
 # Current date
 # Python List Example
 
+# Notice that the list name -- cars -- is plural
+# Always make the name of your list plural (because a list is designed to hold more than one
+# piece of data at a time)
+
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(cars)
 
