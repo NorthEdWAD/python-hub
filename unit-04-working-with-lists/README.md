@@ -1,4 +1,5 @@
-# 🎨 **Project**  
+# 🎨 Intro to Python
+## Working with Lists
 
 **Due Dates:**
 - Part 1: April 5
@@ -8,7 +9,13 @@
 ---
 
 **Objective:** 
-> Create 
+> - Learn how to use a `FOR` loop to loop through a Python list
+> - Learn how to avoid common errors when looping through a list
+> - Learn how to create numeric lists
+> - Learn what a list comprehension is and how to make one
+> - Learn how to work with just a part of a list
+> - Learn what a tuple is and how it behaves differently than a list
+> - Learn how to create and manage a **tuple**
 
 ---
 
@@ -23,9 +30,9 @@
 
 Your project is complete when you have:
 
-- [ ] Requirement
-- [ ] Requirement
-- [ ] Requirement
+- [ ] completed the assigned readings in the PCC book
+- [ ] completed the assigned *Try It Yourself* activities for the chapter
+- [ ] debugged and uploaded your finished scripts to the designated GitHub repo
 
 ---
 
