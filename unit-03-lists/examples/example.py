@@ -9,7 +9,11 @@
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(cars)
 
-# Printing list items in reverse order
-# using the built-in reverse ( ) list method
-cars.reverse() 
-print(cars)
+# The first list item always has an index number of zero (0)
+# This is known as zero-based indexing
+
+# Print the first list item using its index number
+print(cars[0]) # Output will be bmw
+
+# To print toyota, do this:
+print(cars[2]) # Output will be toyota
