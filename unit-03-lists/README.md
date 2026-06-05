@@ -1,14 +1,18 @@
-# 🎨 **Project**  
+# 🎨 **Intro to Python**  
+## Python Lists 101
 
 **Due Dates:**
-- Part 1: April 5
-- Part 2: April 8
-- Part 3: April 12
+- DAY 00 SEP 2026
 
 ---
 
 **Objective:** 
-> Create 
+> As part of this project, you'll learn:
+> - what lists are and how they behave differently than variables
+> - how to name your lists correctly
+> - what indexing means and how index numbers are used with lists
+> - how to create a list and add data to it
+> - how to access and update the data stored in a list
 
 ---
 
@@ -23,14 +27,17 @@
 
 Your project is complete when you have:
 
-- [ ] Requirement
-- [ ] Requirement
-- [ ] Requirement
+- [ ] read pp. 33 - 36 in *Python Crash Course*, Ch. 3
+- [ ] updated your comment block at the top of your script (`lists-intro.py`)
+- [ ] completed **Try It Yourself**, p. 36 in *Python Crash Course*
+  - Exercise 3-1 (Names)
+  - Exercise 3-2 (Greetings)
+  - Exercise 3-3 (Your Own List)
 
 ---
 
 ## 🔗 **Resources**
-- See starter files
+- See starter files on GitHub (`unit-03-lists`)
 - 🎞️ [BroCode | Python | YouTube](https://youtu.be/ix9cRaBkVe0?si=Sh3hHadW6qHPu-xm)
 - 🎞️ [Mosh | Python for Beginners | YouTube](https://youtu.be/K5KVEU3aaeQ?si=wztjh6PNiT67JlYi)
 - 📖 [Non-Programmer's Tutorial for Python 3 | Wiki Books](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
@@ -40,39 +47,27 @@ Your project is complete when you have:
 ## 🛠️ **Getting Started**
 
 <details>
-<summary>Part 1: Text</summary>
+<summary>Part 1: Creating Your Files & Folders</summary>
 
-1. Text.
-2. Create :
-   ```python
-   message = 'Hello, Python!'
-   print(message)
-   ```
+1. Using VS Code, create a NEW project folder (`lists-intro`) on your laptop
+2. To the folder, add a new Python script: `lists-intro.py`
+3. Update the comment block at the top of your script.
+
 </details>
 
 <details>
-<summary>Part 2: Text</summary>
+<summary>Part 2: Writing Your Code</summary>
 
-- Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```python
-  first_name = 'Abraham'
-  last_name = 'Lincoln'
-  full_name = f'{first_name} {last_name}'
-  print(full_name)
-  ```
+- Complete the *Try It Yourself* activities listed under **Requirements**t
+  - TIP: You can write the code for all three activities in one file (`lists-intro.py`)
 </details>
 
 <details>
-<summary>Part 3: Text</summary>
+<summary>Part 3: All Done?</summary>
 
-- Create 
-- Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```python
-  first_name = 'Abraham'
-  last_name = 'Lincoln'
-  full_name = f'{first_name} {last_name}'
-  print(full_name)
-  ```
+- Use GitHub Desktop to upload your script to your `lists-practice` repo on GitHub
+- See 📅 **Submitting Your Work** above
+
 
 </details>
 
