@@ -43,7 +43,7 @@ Students will learn how to:
 
 * [ ] Read Ch. 3, pp. 36 - 42 (Modifying, Adding & Removing Elements)
 * [ ] Complete **Try It Yourself**:
-  * Exercises 3-4, 3-5, 3-6, 3-7
-    * pp. 41 - 42
+  * Exercises 3-8, 3-9, 3-10 (Chapter 3, Introducing Lists)
+    * p. 45
 
 ---
