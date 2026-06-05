@@ -21,7 +21,7 @@
 
 ## 📅 **Submitting Your Work**
 - Upload work to your PUBLIC GitHub repo: `list-management-practice`
-- Copy web address of repo.
+- Copy web address of repo
 - Paste repo web address into [Google Form](https://forms.gle/4SU8foH25b8krCw1A) and submit
 
 ---
