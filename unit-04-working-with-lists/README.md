@@ -40,39 +40,24 @@ Your project is complete when you have:
 ## 🛠️ **Getting Started**
 
 <details>
-<summary>Part 1: Text</summary>
+<summary>Part 1: Looping Through an Entire List</summary>
 
-1. Text.
-2. Create :
-   ```python
-   message = 'Hello, Python!'
-   print(message)
-   ```
+1. Read pp. 49 - 56 in Python Crash Course book.
+2. Complete **Try It Yourself**, p. 56, Exercise 4-1 (Pizzas) and 4-2 (Animals)
 </details>
 
 <details>
-<summary>Part 2: Text</summary>
+<summary>Part 2: Making Numerical Lists</summary>
 
-- Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```python
-  first_name = 'Abraham'
-  last_name = 'Lincoln'
-  full_name = f'{first_name} {last_name}'
-  print(full_name)
-  ```
+- Read pp. 56 - 60 in Python Crash Course book.
+2. Complete **Try It Yourself**, p. 60, Exercise 4-3 to 4-9.
 </details>
 
 <details>
-<summary>Part 3: Text</summary>
+<summary>Part 3: Working with Parts of a List</summary>
 
-- Create 
-- Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```python
-  first_name = 'Abraham'
-  last_name = 'Lincoln'
-  full_name = f'{first_name} {last_name}'
-  print(full_name)
-  ```
+- Read pp. 61 - 65 in PCC book.
+- Complete **Try It Yourself**, p. 65, Exercise 4-10 to 4-12.
 
 </details>
 
