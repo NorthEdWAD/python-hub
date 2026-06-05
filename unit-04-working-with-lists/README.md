@@ -56,23 +56,23 @@ Your project is complete when you have:
 <details>
 <summary>Part 2: Making Numerical Lists</summary>
 
-- Read pp. 56 - 60 in Python Crash Course book.
+1. Read pp. 56 - 60 in Python Crash Course book.
 2. Complete **Try It Yourself**, p. 60, Exercise 4-3 to 4-9.
 </details>
 
 <details>
 <summary>Part 3: Working with Parts of a List</summary>
 
-- Read pp. 61 - 65 in PCC book.
-- Complete **Try It Yourself**, p. 65, Exercise 4-10 to 4-12.
+1. Read pp. 61 - 65 in PCC book.
+2. Complete **Try It Yourself**, p. 65, Exercise 4-10 to 4-12.
 
 </details>
 
 <details>
 <summary>Part 4: Tuples</summary>
 
-- Read pp. 65 - 67 in PCC book.
-- Complete **Try It Yourself**, p. 67, Exercise 4-13 (Buffet).
+1. Read pp. 65 - 67 in PCC book.
+2. Complete **Try It Yourself**, p. 67, Exercise 4-13 (Buffet).
 
 </details>
 
