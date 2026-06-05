@@ -1,6 +1,6 @@
 # First and last name
 # Current date
-# Project name/title
+# Project title
 
 # This is a Python comment
 
