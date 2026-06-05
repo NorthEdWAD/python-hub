@@ -61,6 +61,14 @@ Your project is complete when you have:
 
 </details>
 
+<details>
+<summary>Part 4: Tuples</summary>
+
+- Read pp. 65 - 67 in PCC book.
+- Complete **Try It Yourself**, p. 67, Exercise 4-13 (Buffet).
+
+</details>
+
 ---
 
 
