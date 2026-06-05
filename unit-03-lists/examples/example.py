@@ -1,6 +1,6 @@
-# First and last name
+# Abraham Lincoln
 # Current date
-# Project Title
+# Python List Example
 
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 print(cars)
