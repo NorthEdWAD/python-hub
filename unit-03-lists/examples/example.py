@@ -1,5 +1,5 @@
 # Abraham Lincoln
-# Current date
+# 22 MAY 2026
 # Python List Example
 
 # Notice that the list name -- cars -- is plural
