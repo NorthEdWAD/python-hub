@@ -2,7 +2,10 @@
 # Current date
 # Project Title
 
-first_name = 'Abraham'
-last_name = 'Lincoln'
-full_name = f'{first_name} {last_name}'
-print(full_name)
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+print(cars)
+
+# Printing list items in reverse order
+# using the built-in reverse ( ) list method
+cars.reverse() 
+print(cars)
